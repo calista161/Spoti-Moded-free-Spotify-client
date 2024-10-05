@@ -1,2 +1,2 @@
-# Spoti-Moded-free-Spotify-client
-Moded free Spotify client
+# Spoti - free Moded free Spotify client
+# Spoti - ad-free and subscription
